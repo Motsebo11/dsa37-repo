@@ -1,0 +1,2 @@
+This is a file created and maintained by Developer B
+Dev B is working on a particular feature of the project
