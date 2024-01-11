@@ -1,0 +1,2 @@
+This is a file created only on the local repository by Dev A 
+Dev A is working on a separate feature than Dev B
